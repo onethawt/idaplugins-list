@@ -1,2 +1,2 @@
-# idaplugins-list
-A list of IDA Plugins
+# A list of IDA Plugins
+
