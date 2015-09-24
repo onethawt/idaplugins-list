@@ -1,6 +1,10 @@
 # A list of IDA Plugins
 
-**I'll be adding plugins over the next few days. Once I feel like I've listed the majority of them, I will organize them hierarchically, and then if the license permits add them as a submodule.**
+# **TODO**
+- [ ] Add more plugins
+- [ ] Organize plugins hierarchically
+- [ ] Fork repositories and import non-github hosted repos
+- [ ] Annotate each plugin with IDA version
 
 **If a plugin is only a source repo with no description or documentation, I am not adding it.**
 
@@ -158,6 +162,8 @@ many other things like known strings and anti-debugging code which can be also m
 * [Synergy](https://github.com/CubicaLabs/IDASynergy): A combination of an IDAPython Plugin and a control version system that result in a new reverse engineering collaborative addon for IDA Pro. By http://cubicalabs.com/
 
 * [Tarkus](https://github.com/tmr232/Tarkus): Tarkus is a plugin manager for IDA Pro, modelled after Python's pip.
+
+* [TurboDiff](http://www.coresecurity.com/corelabs-research/open-source-tools/turbodiff): Turbodiff is a binary diffing tool developed as an IDA plugin. It discovers and analyzes differences between the functions of two binaries.
 
 * [VirusBattle](https://github.com/axmat/virusbattle-ida-plugin): The plugin is an integration of Virus Battle API to the well known IDA Disassembler. Virusbattle is a web service that analyses malware and other binaries with a variety of advanced static and dynamic analyses.
 
