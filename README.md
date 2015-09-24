@@ -1,12 +1,14 @@
 # A list of IDA Plugins
 
+**If a plugin is only a source repo with no description or documentation, I am not adding it.**
+
 # **TODO**
 - [ ] Add more plugins
 - [ ] Organize plugins hierarchically
 - [ ] Fork repositories and import non-github hosted repos
 - [ ] Annotate each plugin with IDA version
 
-**If a plugin is only a source repo with no description or documentation, I am not adding it.**
+
 
 * [3DSX Loader](https://github.com/0xEBFE/3DSX-IDA-PRO-Loader): IDA PRO Loader for 3DSX files
 
