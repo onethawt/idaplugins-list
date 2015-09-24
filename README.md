@@ -8,7 +8,7 @@
 - [ ] Fork repositories and import non-github hosted repos
 - [ ] Annotate each plugin with IDA version
 
-
+# Plugins
 
 * [3DSX Loader](https://github.com/0xEBFE/3DSX-IDA-PRO-Loader): IDA PRO Loader for 3DSX files
 
