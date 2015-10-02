@@ -1,5 +1,7 @@
 # A list of IDA Plugins
 
+** Update 10/02/2015 ** I'll be organizing the plugins this weekend. Please submit PRs if you have any other outstanding plugins. I would like to tag each plugin with its corresponding IDA version, but it will take me a long time to test. If you can help there, please do. 
+
 **If a plugin is only a source repo with no description or documentation, I am not adding it.**
 
 # **TODO**
