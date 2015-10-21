@@ -6,9 +6,9 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 # **TODO**
 - [ ] Add more plugins
-- [ ] Organize plugins hierarchically
 - [ ] Fork repositories and import non-github hosted repos
 - [ ] Annotate each plugin with IDA version
+- [ ] Organize plugins hierarchically. There's a lot of plugins with varying scopes. So until the list becomes unwieldy, I will defer this task. 
 
 # Plugins
 
