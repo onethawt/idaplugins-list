@@ -121,6 +121,8 @@ many other things like known strings and anti-debugging code which can be also m
 
 * [idb2pat](https://github.com/alexander-pick/idb2pat): IDB to Pat.
 
+* [IPython](https://github.com/james91b/ida_ipython): An IDA Pro Plugin for embedding an IPython Kernel
+
 * [Kam1n0](https://github.com/McGill-DMaS/Kam1n0-Plugin-IDA-Pro): Kam1n0 is a scalable system that supports assembly code clone search. It allows a user to first index a (large) collection of binaries, and then search for the code clones of a given target function or binary file. Kam1n0 tries to solve the efficient subgraph search problem (i.e. graph isomorphism problem) for assembly functions.
 
 * [Labeless](https://github.com/a1ext/labeless): Labeless is a plugin system for dynamic, seamless and realtime synchronization between IDA Database and Olly. Labels, function names and global variables synchronization is supported. 
@@ -160,6 +162,8 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [Sig Maker](https://tuts4you.com/download.php?view.3263): Can create sigs automatically and has a wide variety of functions (might be unstable on IDA 6.2).
 
+* [Simulator](https://github.com/nihilus/IDASimulator): IDASimulator is a plugin that extends IDA's conditional breakpoint support, making it easy to augment / replace complex executable code inside a debugged process with Python code.
+
 * [Snippt Detector](https://github.com/zaironne/SnippetDetector): Snippet Detector is an IDA Python scripts project used to detect snippets from 32bit disassembled files. snippet is the word used to identify a generic sequence of instructions (at the moment a snippet is indeed a defined function). The aim of the tool is to collect many disassembled snippets inside a database for the detection process.
 
 * [Snowman Decompiler](http://derevenets.com/): Snowman is a native code to C/C++ decompiler. Standalone and IDA Plugin. [Source Code](https://github.com/yegord/snowman)
@@ -169,6 +173,8 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 * [spu3dbg](https://github.com/revel8n/spu3dbg): Ida Pro debugger module for the anergistic SPU emulator.
 
 * [Stingray](https://github.com/darx0r/Stingray): Stingray is an IDAPython plugin for finding function strings. The search is from the current position onwards in the current function. It can do it recursively also with configurable search depth. The results order is the natural order of strings in the BFS search graph.
+
+* [Styler](https://github.com/techbliss/IDA-Styler): Small Plugin to change the style off Ida Pro
 
 * [Synergy](https://github.com/CubicaLabs/IDASynergy): A combination of an IDAPython Plugin and a control version system that result in a new reverse engineering collaborative addon for IDA Pro. By http://cubicalabs.com/
 
