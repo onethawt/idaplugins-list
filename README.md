@@ -6,9 +6,7 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 # **TODO**
 - [ ] Add more plugins
-- [ ] Fork repositories and import non-github hosted repos
-- [ ] Annotate each plugin with IDA version
-- [ ] Organize plugins hierarchically. There's a lot of plugins with varying scopes. So until the list becomes unwieldy, I will defer this task. 
+- [ ] Categorize plugins
 
 # Plugins
 
@@ -45,6 +43,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 * [Debugger](https://github.com/cseagle/sk3wldbg): Debugger plugin for IDA Pro backed by the Unicorn Engine
 
 * [Diaphora](https://github.com/joxeankoret/diaphora): Diaphora (διαφορά, Greek for 'difference') is a program diffing plugin for IDA Pro, similar to Zynamics Bindiff or the FOSS counterparts DarunGrim, TurboDiff, etc... It was released during SyScan 2015.
+
+* [Docker IDA](http://blog.intezer.com/docker-ida/): Run IDA Pro disassembler in Docker containers for automating, scaling and distributing the use of IDAPython scripts.
 
 * [DOXBox Debugger](https://github.com/wjp/idados): Eric Fry's IDA/DOSBox debugger plugin
 
