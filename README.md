@@ -135,6 +135,8 @@ many other things like known strings and anti-debugging code which can be also m
 
 * [idb2pat](https://github.com/alexander-pick/idb2pat): IDB to Pat.
 
+* [ioctl_plugin](https://github.com/sam-b/ioctl_plugin): A tool to help when dealing with IOCTL codes and Windows driver IOCTL dispatch functions..
+
 * [IPython](https://github.com/james91b/ida_ipython): An IDA Pro Plugin for embedding an IPython Kernel
 
 * [Kam1n0](https://github.com/McGill-DMaS/Kam1n0-Plugin-IDA-Pro): Kam1n0 is a scalable system that supports assembly code clone search. It allows a user to first index a (large) collection of binaries, and then search for the code clones of a given target function or binary file. Kam1n0 tries to solve the efficient subgraph search problem (i.e. graph isomorphism problem) for assembly functions.
