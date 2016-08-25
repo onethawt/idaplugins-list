@@ -135,6 +135,8 @@ many other things like known strings and anti-debugging code which can be also m
 
 * [idb2pat](https://github.com/alexander-pick/idb2pat): IDB to Pat.
 
+* [IFL](https://github.com/hasherezade/ida_ifl): Interactive Functions List is an user-friendly way to navigate between functions and their references.
+
 * [ioctl_plugin](https://github.com/sam-b/ioctl_plugin): A tool to help when dealing with IOCTL codes and Windows driver IOCTL dispatch functions.
 
 * [IPython](https://github.com/james91b/ida_ipython): An IDA Pro Plugin for embedding an IPython Kernel
