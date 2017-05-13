@@ -165,6 +165,8 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [MyNav](https://code.google.com/p/mynav/): MyNav is a plugin for IDA Pro to help reverse engineers in the most typical task like discovering what functions are responsible of some specifical tasks, finding paths between "interesting" functions and data entry points.
 
+* [nao](https://github.com/tkmru/nao): nao(no-meaning assembly omiter) is dead code eliminator plugin for IDA pro
+
 * [NES Loader](https://github.com/patois/nesldr): Nintendo Entertainment System (NES) ROM loader module for IDA Pro.
 
 * [NSIS Reversing Suite](https://github.com/isra17/nrs/): NRS is a set of Python librairies used to unpack and analysis NSIS installer's data. It also feature an IDA plugin used to disassembly the NSIS Script of an installer.
