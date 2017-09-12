@@ -199,13 +199,13 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [Prefix](https://github.com/gaasedelen/prefix): Prefix is a small function prefixing plugin for IDA Pro. The plugin augments IDA's function renaming capabilities by adding a handful of convenient prefixing actions to relevant right click menus.
 
-* [Proccessor changer](https://github.com/techbliss/Processor-Changer): Change proccessor without restarting IDA.
+* [Processor changer](https://github.com/techbliss/Processor-Changer): Change processor without restarting IDA.
 
-* [Python Editor](https://github.com/techbliss/Python_editor): Pyhton editor based IDA Pro. The plugin helps python devs scripting and runing python scripts, and creating them.IT have many functions, code recognition and more.
-
-* [Qualcomm Loader](https://github.com/daxgr/qcom-mbn-ida-loader): IDA loader plugin for Qualcomm Bootloader Stages
+* [Python Editor](https://github.com/techbliss/Python_editor): Python editor based IDA Pro. The plugin helps python devs with scripting and running python scripts, and creating them. IT have many functions, code recognition and more.
 
 * [qb-sync](https://github.com/quarkslab/qb-sync): qb-sync is an open source tool to add some helpful glue between IDA Pro and Windbg. Its core feature is to dynamically synchronize IDA's graph windows with Windbg's position.
+
+* [Qualcomm Loader](https://github.com/daxgr/qcom-mbn-ida-loader): IDA loader plugin for Qualcomm Bootloader Stages
 
 * [Recompiler](https://github.com/bastkerg/Recomp): IDA recompiler
 
