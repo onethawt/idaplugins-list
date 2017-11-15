@@ -236,6 +236,13 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [REtypedef](https://github.com/zyantific/REtypedef): REtypedef is an IDA PRO plugin that allows defining custom substitutions for function names. It comes with a default ruleset providing substitutions for many common STL types.
 
+* [rizzo](https://github.com/devttys0/ida/tree/master/plugins/rizzo): Identifies and re-names functions between two or more IDBs based on:
+    * Formal signatures (i.e., exact function signatures)
+    * References to unique string
+    * References to unique constants
+    * Fuzzy signatures (i.e., similar function signatures)
+    * Call graphs (e.g., identification by association)
+
 * [Samsung S4 Rom Loader](https://github.com/cycad/mbn_loader): IDA Pro Loader Plugin for Samsung Galaxy S4 ROMs
 
 * [Sark](https://github.com/tmr232/Sark/): Sark, (named after the notorious Tron villain,) is an object-oriented scripting layer written on top of IDAPython. Sark is easy to use and provides tools for writing advanced scripts and plugins.
