@@ -190,6 +190,8 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [Localxrefs](https://github.com/devttys0/ida/tree/master/plugins/localxrefs): Finds references to any selected text from within the current function.
 
+* [mipslocalvars](https://github.com/devttys0/ida/tree/master/plugins/mipslocalvars): Names stack variables used by the compiler for storing registers on the stack, simplifying stack data analysis (MIPS only)
+
 * [mipsrop](https://github.com/devttys0/ida/tree/master/plugins/mipsrop):
     * Allows you to search for suitable ROP gadgets in MIPS executable code
     * Built-in methods to search for common ROP gadgets
