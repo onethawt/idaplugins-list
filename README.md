@@ -190,6 +190,10 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [Localxrefs](https://github.com/devttys0/ida/tree/master/plugins/localxrefs): Finds references to any selected text from within the current function.
 
+* [mipsrop](https://github.com/devttys0/ida/tree/master/plugins/mipsrop):
+    * Allows you to search for suitable ROP gadgets in MIPS executable code
+    * Built-in methods to search for common ROP gadgets
+
 * [MSDN Helper](https://github.com/Z-Rantom/IMH): This tool will help you to get to Offline MSDN help while using IDA Pro.
 
 * [MyNav](https://code.google.com/p/mynav/): MyNav is a plugin for IDA Pro to help reverse engineers in the most typical task like discovering what functions are responsible of some specifical tasks, finding paths between "interesting" functions and data entry points.
