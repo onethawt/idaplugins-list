@@ -44,6 +44,11 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [Class Informer](http://sourceforge.net/projects/classinformer/): Scans an MSVC 32bit target IDB for vftables with C++ RTTI, and MFC RTCI type data. Places structure defs, names, labels, and comments to make more sense of class vftables ("Virtual Function Table") and make them read easier as an aid to reverse engineering. Creates a list window with found vftables for browsing.
 
+* [codatify](https://github.com/devttys0/ida/tree/master/plugins/codatify):   
+    * Defines ASCII strings that IDA's auto analysis missed
+    *  Defines functions/code that IDA's auto analysis missed
+    *  Converts all undefined bytes in the data segment into DWORDs (thus allowing IDA to resolve function and jump table pointers)
+
 * [c0demap](https://github.com/c0demap/codemap): Codemap is a binary analysis tool for "run-trace visualization" provided as IDA plugin.
 
 * [collabREate](http://www.idabook.com/collabreate/): collabREate is a plugin for IDA Pro that is designed to provide a collaborative reverse engineering capability for multiple IDA users working on the same binary file.
