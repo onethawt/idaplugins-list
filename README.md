@@ -14,6 +14,12 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [Adobe Flash disassembler](https://hex-rays.com/contests/2009/SWF/ReadMe.txt): The 2 plugins present in this archive will enable IDA to parse SWF files, load all SWF tags as segments for fast search and retrieval, parse all tags that can potentially contain ActionScript2 code, discover all such code(a dedicated processor module has been written for it) and even name the event functions acording to event handled in it (eg. OnInitialize). [Download](https://hex-rays.com/contests/2009/SWF/swf.zip)
 
+* [alleycat](https://github.com/devttys0/ida/tree/master/plugins/alleycat): 
+  *  Finds paths to a given code block inside a function
+  *  Finds paths between two or more functions
+  *  Generates interactive call graphs
+  *  Fully scriptable
+
 * [Android Debugging](https://github.com/techbliss/ADB_Helper_QT_Super_version): This version have both support for native arm debugging via usb and sdk ADV manager.
 
 * [Android Scripts Collection](https://github.com/strazzere/android-scripts): Collection of Android reverse engineering scripts that make my life easier
