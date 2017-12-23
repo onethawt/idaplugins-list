@@ -263,6 +263,8 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [Sig Maker](https://tuts4you.com/download.php?view.3263): Can create sigs automatically and has a wide variety of functions (might be unstable on IDA 6.2).
 
+* [SimplifyGraph](https://github.com/fireeye/SimplifyGraph): An IDA Pro plugin to assist with complex graphs.
+
 * [Simulator](https://github.com/nihilus/IDASimulator): IDASimulator is a plugin that extends IDA's conditional breakpoint support, making it easy to augment / replace complex executable code inside a debugged process with Python code.
 
 * [Snippt Detector](https://github.com/zaironne/SnippetDetector): Snippet Detector is an IDA Python scripts project used to detect snippets from 32bit disassembled files. snippet is the word used to identify a generic sequence of instructions (at the moment a snippet is indeed a defined function). The aim of the tool is to collect many disassembled snippets inside a database for the detection process.
