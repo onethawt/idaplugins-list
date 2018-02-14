@@ -67,6 +67,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [DOXBox Debugger](https://github.com/wjp/idados): Eric Fry's IDA/DOSBox debugger plugin
 
+* [DrGadget](https://github.com/patois/DrGadget): This is an IDAPython plugin for the Interactive Disassembler for all your ROP experimentation needs.
+
 * [DriverBuddy](https://github.com/nccgroup/DriverBuddy): DriverBuddy is an IDA Python script to assist with the reverse engineering of Windows kernel drivers.
 
 * [Drop](https://hex-rays.com/contests/2017/drop/drop.zip): An experimental IDA Pro plugin capable of detecting several types of opaque predicates in obfuscated binaries. It leverages the power of the symbolic execution engine angr and its components to reason about the opaqueness of predicates based on their symbolic context.
@@ -137,7 +139,6 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [IDA ARM](https://github.com/gdelugre/ida-arm-system-highlight): This script will give you the list of ARM system instructions used in your IDA database. This is useful for locating specific low-level pieces of code (setting up the MMU, caches, fault handlers, etc.).
 
-
 * [IDA Batch Decompile](https://github.com/tintinweb/ida-batch_decompile): IDA Batch Decompile is a plugin for Hex-Ray's IDA Pro that adds the ability to batch decompile multiple files and their imports with additional annotations (xref, stack var size) to the pseudocode .c file
 
 * [IDABuddy](https://github.com/tmr232/IDABuddy): IDABuddy is a reverse-engineer's best friend. Designed to be everything Clippy the Office Assistant was, and more!
@@ -145,6 +146,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 * [IDA C#](https://github.com/Fabi/IDACSharp): Scripting IDA with C#
 
 * [IDA Compare](https://github.com/dzzie/IDACompare): IDA disassembly level diffing tool, find patches and modifications between malware variants. See mydoom A/B sample database and video trainer for usage.
+
+* [IDACyber](https://github.com/patois/IDACyber): IDACyber is a plugin for the Interactive Disassembler that visualizes an IDA database's content.
 
 * [IDA EA](https://github.com/1111joe1111/ida_ea): Provides a context viewer,  instruction emulator, heap explorer, trace dumper, GDB integration, Styling
 
@@ -219,6 +222,8 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [Localxrefs](https://github.com/devttys0/ida/tree/master/plugins/localxrefs): Finds references to any selected text from within the current function.
 
+* [MadNES](https://github.com/patois/MadNES): This plugin exports IDA names to FCEUXD SP symbols.
+
 * [mipslocalvars](https://github.com/devttys0/ida/tree/master/plugins/mipslocalvars): Names stack variables used by the compiler for storing registers on the stack, simplifying stack data analysis (MIPS only)
 
 * [mipsrop](https://github.com/devttys0/ida/tree/master/plugins/mipsrop):
@@ -230,6 +235,10 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 * [MyNav](https://code.google.com/p/mynav/): MyNav is a plugin for IDA Pro to help reverse engineers in the most typical task like discovering what functions are responsible of some specifical tasks, finding paths between "interesting" functions and data entry points.
 
 * [nao](https://github.com/tkmru/nao): nao(no-meaning assembly omiter) is dead code eliminator plugin for IDA pro
+
+* [NDSLdr](https://github.com/patois/NDSLdr): Nintendo DS ROM loader module for IDA Pro.
+
+* [NECromancer](https://github.com/patois/NECromancer): IDA Pro V850 Processor Module Extension.
 
 * [NES Loader](https://github.com/patois/nesldr): Nintendo Entertainment System (NES) ROM loader module for IDA Pro.
 
