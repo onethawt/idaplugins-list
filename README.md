@@ -38,7 +38,7 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [Bootroom Analysis Library](https://github.com/digitalbond/IBAL): IBAL is the IDA Pro Bootrom Analysis Library, which contains a number of useful functions for analyzing embedded ROMs.
 
-* [Bosch ME7](https://github.com/AndyWhittaker/IDAProBoschME7): Siemens Bosch ME7.x Disassembler Helper for IDA Pro
+* [Bosch ME7](https://github.com/AndyWhittaker/IDAProBoschMe7x): Siemens Bosch ME7.x Disassembler Helper for IDA Pro
 
 * [CGEN](https://github.com/yifanlu/cgen): CGEN with support for generating IDA Pro IDP modules.
 
