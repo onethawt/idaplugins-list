@@ -274,6 +274,8 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [Reef](https://github.com/darx0r/Reef): IDAPython plugin for finding Xrefs from a function.
 
+* [REobjc](https://github.com/duo-labs/idapython): REobjc is an IDAPython module designed to make proper cross references between calling functions and called functions in Objective-C methods. The current form of the module supports X64, and will be updated to also support ARM in the future.
+
 * [REProgram](https://github.com/jkoppel/REProgram): A way of making almost-arbitrary changes to an executable when run under a debugger -- even changes that don't fit.
 
 * [retdec](https://retdec.com/idaplugin/): IDA plugin for retdec - a retargetable machine-code decompiler based on LLVM.
