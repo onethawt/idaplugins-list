@@ -12,6 +12,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [3DSX Loader](https://github.com/0xEBFE/3DSX-IDA-PRO-Loader): IDA PRO Loader for 3DSX files
 
+* [ActionScript 3](https://www.hex-rays.com/contests/2018/index.shtml): An ActionScript 3 processor module and Flash debugger plugin.
+
 * [Adobe Flash disassembler](https://hex-rays.com/contests/2009/SWF/ReadMe.txt): The 2 plugins present in this archive will enable IDA to parse SWF files, load all SWF tags as segments for fast search and retrieval, parse all tags that can potentially contain ActionScript2 code, discover all such code(a dedicated processor module has been written for it) and even name the event functions acording to event handled in it (eg. OnInitialize). [Download](https://hex-rays.com/contests/2009/SWF/swf.zip)
 
 * [alleycat](https://github.com/devttys0/ida/tree/master/plugins/alleycat): 
@@ -129,6 +131,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [HexRays CodeXplorer](https://github.com/REhints/HexRaysCodeXplorer): The Hex-Rays Decompiler plugin for better code navigation in RE process. CodeXplorer automates code REconstruction of C++ applications or modern malware like Stuxnet, Flame, Equation, Animal Farm ...
 
+* [HexRaysDeob](https://www.hex-rays.com/contests/2018/index.shtml): A Hex-Rays microcode API plugin breaking an obfuscating compiler used to create an in-the-wild malware family. The plugin is fully automatic and requires no user intervention; upon installation, the decompilation listings presented to the user will be free of obfuscation.
+
 * [HexRays Tools](https://github.com/nihilus/hexrays_tools): 
   * Assist in creation of new structure definitions / virtual calls detection
   * Jump directly to virtual function or structure member definition
@@ -140,6 +144,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 * [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools): Plugin assists in creation classes/structures and detection virtual tables. Best to use with Class Informer plugin, because it helps to automatically get original classes names.
 
 * [HRDEV](https://github.com/ax330d/hrdev): This is an IDA Pro Python plugin to make Hex-Rays Decompiler output bit more attractive. HRDEV plugin retrieves standard decompiler output, parses it with Python Clang bindings, does some magic, and puts back.
+
+* [Hyara](https://www.hex-rays.com/contests/2018/index.shtml): A plugin to create pattern-matching rules. It helps creating rules for the YARA pattern-matching tool direcly in IDA. It includes a simple detection of relocatable bytes in x86 opcodes for improved matching. It also provides a checker feature for testing the rules on the loaded binary.
 
 * [IDA2SQL](https://github.com/zynamics/ida2sql-plugin-ida): As the name implies this plugin can be used to export information from IDA databases to SQL databases. This allows for further analysis of the collected data: statstical analysis, building graphs, finding similarities between programs, etc.
 
@@ -174,6 +180,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 * [IDAngr](https://github.com/andreafioraldi/IDAngr): Use angr in the ida debugger generating a state from the current debug session 
 
 * [IDA BPF Processor](https://github.com/bnbdr/ida-bpf-processor): BPF Bytecode Processor for IDA (python). Supports the old BPF bytecode only (no eBPF).
+
+* [IDA-minsc](https://github.com/arizvisa/ida-minsc): A plugin that assists a user with scripting the IDAPython plugin that is bundled with the disassembler. This plugin groups the different aspects of the IDAPython API into a simpler format which allows a reverse engineer to script different aspects of their work with very little investment.
 
 * [IDA Patchwork](https://bitbucket.org/daniel_plohmann/idapatchwork): Stitching against malware families with IDA Pro (tool for the talk at Spring9, https://spring2014.gdata.de/spring2014/programm.html). In essence, I use a somewhat fixed / refurbished version of PyEmu along IDA to demonstrate deobfuscation of the different patterns found in the malware family Nymaim.
 
@@ -254,9 +262,13 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [NES Loader](https://github.com/patois/nesldr): Nintendo Entertainment System (NES) ROM loader module for IDA Pro.
 
+* [NIOS2](https://www.hex-rays.com/contests/2018/index.shtml): An IDA Pro processor module for Altera Nios II Classic/Gen2 microprocessor architecture.
+
 * [NSIS Reversing Suite](https://github.com/isra17/nrs/): NRS is a set of Python librairies used to unpack and analysis NSIS installer's data. It also feature an IDA plugin used to disassembly the NSIS Script of an installer.
 
 * [Optimice](https://code.google.com/p/optimice/): This plugin enables you to remove some common obfuscations and rewrite code to a new segment. Currently supported optimizations are: Dead code removal, JMP merging, JCC opaque predicate removal, Pattern based deobfuscations
+
+* [Oregami](https://www.hex-rays.com/contests/2018/index.shtml): A plugin analyzing the current function to find the usage frame of registers. Oregami eases the work when tracking the use of a register within a function, by limiting the search to occurrences related to the one currently highlighted instead of the whole function.
 
 * [Patcher](https://github.com/iphelix/ida-patcher): IDA Patcher is a plugin for Hex-Ray's IDA Pro disassembler designed to enhance IDA's ability to patch binary files and memory.
 
