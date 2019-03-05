@@ -28,6 +28,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [Android Scripts Collection](https://github.com/strazzere/android-scripts): Collection of Android reverse engineering scripts that make my life easier
 
+* [APIScout](https://github.com/danielplohmann/apiscout): This project aims at simplifying Windows API import recovery. As input, arbitrary memory dumps for a known environment can be processed (please note: a reference DB has to be built first, using apiscout/db_builder). The output is an ordered list of identified Windows API references with some meta information, and an ApiVector fingerprint. Includes a convenience GUI wrapper for use in IDA.
+
 * [AutoRE](https://github.com/a1ext/auto_re): Auto-renaming plugin with tagging support.
 
 * [BinAuthor](https://github.com/g4hsean/BinAuthor): Match an author to an unknown binary.
