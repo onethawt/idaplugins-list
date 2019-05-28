@@ -278,7 +278,7 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
     * Allows you to search for suitable ROP gadgets in MIPS executable code
     * Built-in methods to search for common ROP gadgets
 
-* [MrsPicky](https://github.com/patois/mrspicky): An IDAPython decompiler script that helps auditing calls to the memcpy(dst, src, n) and memmove(dsr, c, n) functions.
+* [MrsPicky](https://github.com/patois/mrspicky): An IDAPython decompiler script that helps auditing calls to the memcpy() and memmove() functions.
 
 * [MSDN Helper](https://github.com/Z-Rantom/IMH): This tool will help you to get to Offline MSDN help while using IDA Pro.
 
