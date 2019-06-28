@@ -249,6 +249,8 @@ many other things like known strings and anti-debugging code which can be also m
 
 * [IFL](https://github.com/hasherezade/ida_ifl): Interactive Functions List is an user-friendly way to navigate between functions and their references.
 
+* [ifred](https://github.com/Jinmo/ifred): IDA command palette & further
+
 * [ioctl_plugin](https://github.com/sam-b/ioctl_plugin): A tool to help when dealing with IOCTL codes and Windows driver IOCTL dispatch functions.
 
 * [IPyIDA](https://github.com/eset/ipyida): PyIDA is a python-only solution to use a IPython console in the context of IDA Pro. It spawns an IPython kernel that you can connect to with `ipython console --existing` in your shell or by opening a *QT Console* window in IDA Pro with `<Shift-.>`
