@@ -278,7 +278,7 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [MazeWalker](https://github.com/0xPhoeniX/MazeWalker): Toolkit for enriching and speeding up static malware analysis. MazeWalker’s goal is to reduce malware analysis time by automating runtime data collection and better visualization eventually helping a researcher to concentrate on static analysis and less on its dynamic part.
 
-* [MC68K Processor Model Extension](https://github.com/LucienMP/idapro_m68k): This is a sample plugin for extending gdb support for step-over for the M68K, and to enable type information support so you can press "y" on functions and have the parameters propagate inside and back out of the funciton.
+* [MC68K Processor Model Extension](https://github.com/LucienMP/idapro_m68k): This is a sample plugin for extending gdb support for step-over for the M68K, and to enable type information support so you can press "y" on functions and have the parameters propagate inside and back out of the function.
 
 * [mipslocalvars](https://github.com/devttys0/ida/tree/master/plugins/mipslocalvars): Names stack variables used by the compiler for storing registers on the stack, simplifying stack data analysis (MIPS only)
 
