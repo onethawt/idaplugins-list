@@ -69,6 +69,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [Debugger](https://github.com/cseagle/sk3wldbg): Debugger plugin for IDA Pro backed by the Unicorn Engine
 
+* [deREferencing](https://github.com/danigargu/deREferencing): IDA Pro plugin that implements more user-friendly register and stack views.
+
 * [Diaphora](https://github.com/joxeankoret/diaphora): Diaphora (διαφορά, Greek for 'difference') is a program diffing plugin for IDA Pro, similar to Zynamics Bindiff or the FOSS counterparts DarunGrim, TurboDiff, etc... It was released during SyScan 2015.
 
 * [Docker IDA](http://blog.intezer.com/docker-ida/): Run IDA Pro disassembler in Docker containers for automating, scaling and distributing the use of IDAPython scripts.
@@ -380,6 +382,8 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 * [Styler](https://github.com/techbliss/IDA-Styler): Small Plugin to change the style off Ida Pro
 
 * [Synergy](https://github.com/CubicaLabs/IDASynergy): A combination of an IDAPython Plugin and a control version system that result in a new reverse engineering collaborative addon for IDA Pro. By http://cubicalabs.com/
+
+* [sysm2elf](https://github.com/danigargu/syms2elf): A plugin for IDA Pro and radare2 to export the symbols recognized to the ELF symbol table.
 
 * [Tarkus](https://github.com/tmr232/Tarkus): Tarkus is a plugin manager for IDA Pro, modelled after Python's pip.
 
