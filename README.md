@@ -193,6 +193,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [IDAFuzzy](https://github.com/Ga-ryo/IDAFuzzy): IDAFuzzy is fuzzy searching tool for IDA Pro. This tool helps you to find command/function/struct and so on.
 
+* [ida-genesis](https://github.com/zznop/ida-genesis): Suite of IDA scripts for SEGA Genesis ROM hacking.
+
 * [idaidle](https://github.com/google/idaidle): idaidle is a plugin for the commercial IDA Pro disassembler that warns users if they leave their instance idling for too long. After a predetermined amount of idle time, the plugin first warns and later then saves the current disassemlby database and closes IDA.
 
 * [IDA Images](https://github.com/rr-/ida-images): Image preview plugin for IDA disassembler.
