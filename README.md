@@ -221,6 +221,14 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [IDA BPF Processor](https://github.com/bnbdr/ida-bpf-processor): BPF Bytecode Processor for IDA (python). Supports the old BPF bytecode only (no eBPF).
 
+* [IDA Migrator](https://github.com/giladreich/ida_migrator): IDA Migrator plugin makes the job of migrating symbols and type informations from one IDA database instance to another. It will help migrating function names, structures and enums. This comes in handy when:
+  * Moving to a newer version of IDA that does better analysis and you don't want to change in the new instance type information or variable names of the decompiled functions.
+  * The current idb instance fails to decompile a function or the decompilation looks wrong in comparison to another idb instance of the same binary.
+  * Experimenting on another idb instance before making major changes on the current instance.
+  * A lightweight easy way of creating small backups of the current work.
+  * For w/e reason, the current idb instance you're working on gets corrupted.
+
+
 * [IDAMagicStrings](https://github.com/joxeankoret/idamagicstrings): An IDA Python plugin to extract information from string constants. The current version of the plugin is able to:
   * Display functions to source files relationships (in a tree and in a plain list, a chooser in IDA language).
   * Display guessed function names for functions.
