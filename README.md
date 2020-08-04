@@ -1,3 +1,8 @@
+# Call To Action
+
+This repository is quite popular and spans all versions of IDA. If you can help categorize plugins based on version, it would be much appreciated. Submit a PR!!!
+
+
 # A list of IDA Plugins
 
 I'll be organizing the plugins over time. Please submit PRs if you have any other outstanding plugins. I would like to tag each plugin with its corresponding IDA version, but it will take me a long time to test. If you can help there, please do. 
