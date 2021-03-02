@@ -86,6 +86,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [Docker IDA](http://blog.intezer.com/docker-ida/): Run IDA Pro disassembler in Docker containers for automating, scaling and distributing the use of IDAPython scripts.
 
+* [dotNIET](https://github.com/synacktiv/dotNIET): .NIET is an IDA Pro plugin to import missing symbols (usually few thousands) which are resolved at runtime by .NET native compiled binaries. These symbols lie in SharedLibrary.dll and are not exported by this one. .NIET has been tested on IDA Pro 7.5 using python 3.8 on the following platforms: Windows, Linux. This plugin currently supports the following .NET native framework versions: 1.3, 1.6, 1.7, 2.2.
+
 * [DOXBox Debugger](https://github.com/wjp/idados): Eric Fry's IDA/DOSBox debugger plugin
 
 * [DrGadget](https://github.com/patois/DrGadget): This is an IDAPython plugin for the Interactive Disassembler for all your ROP experimentation needs.
