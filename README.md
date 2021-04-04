@@ -335,6 +335,11 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [MSDN Helper](https://github.com/Z-Rantom/IMH): This tool will help you to get to Offline MSDN help while using IDA Pro.
 
+* [Memory Loader](https://github.com/SentineLabs/Memloader): IDA loader that allows loading malicious buffers to IDA without writing them to the disk.
+    * UrlLoader - loads files from a URL.
+    * MemZipLoader - loads files to encrypted / plain zip file.
+    * So far only windows supported.
+    
 * [MyNav](https://code.google.com/p/mynav/): MyNav is a plugin for IDA Pro to help reverse engineers in the most typical task like discovering what functions are responsible of some specifical tasks, finding paths between "interesting" functions and data entry points.
 
 * [nao](https://github.com/tkmru/nao): nao(no-meaning assembly omiter) is dead code eliminator plugin for IDA pro
