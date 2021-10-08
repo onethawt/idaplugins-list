@@ -200,6 +200,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
   * globals, function parameters, local variables, etc. can be renamed
   * auto-comment hint suport
 
+* [idaxex](https://github.com/emoose/idaxex): Xbox360/Xenon loader plugin for IDA 7.2+, supporting most known Xbox360/Xenon .XEX executable file formats.
+
 * [IDA Batch Decompile](https://github.com/tintinweb/ida-batch_decompile): IDA Batch Decompile is a plugin for Hex-Ray's IDA Pro that adds the ability to batch decompile multiple files and their imports with additional annotations (xref, stack var size) to the pseudocode .c file
 
 * [IDABuddy](https://github.com/tmr232/IDABuddy): IDABuddy is a reverse-engineer's best friend. Designed to be everything Clippy the Office Assistant was, and more!
