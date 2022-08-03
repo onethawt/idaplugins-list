@@ -104,7 +104,7 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [Dynamic IDA Enrichment](https://github.com/ynvb/DIE): DIE is an IDA python plugin designed to enrich IDA`s static analysis with dynamic data. This is done using the IDA Debugger API, by placing breakpoints in key locations and saving the current system context once those breakpoints are hit.
 
-* [easyRE](https://github.com/AntoineBlaud/EasyRe): IDA Python3 script that's make you runtime analyse easier. It allows to trace the code that you selected, then browse the trace, see registers, values and memory associated to the instructions saved by the trace. It allow in a easy way to compare data given to specific part of the code between different calls.
+* [easyRE](https://github.com/AntoineBlaud/EasyRe): IDA Python3 script that's make you runtime analyse easier. It allows to trace the code that you selected, then browse the trace, see registers, values and memory associated to the instructions saved by the trace. It allow in a easy way to compare data given to specific part of the code between different calls. It works for X86-X64 arch
 
 * [EFI Scripts](https://github.com/danse-macabre/ida-efitools): Some IDA scripts and tools to assist with reverse engineering EFI executables.
 
