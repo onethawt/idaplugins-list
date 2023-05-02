@@ -86,6 +86,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [Docker IDA](http://blog.intezer.com/docker-ida/): Run IDA Pro disassembler in Docker containers for automating, scaling and distributing the use of IDAPython scripts.
 
+* [dotNIET](https://github.com/synacktiv/dotNIET): .NIET is an IDA Pro plugin to import missing symbols (usually few thousands) which are resolved at runtime by .NET native compiled binaries. These symbols lie in SharedLibrary.dll and are not exported by this one. .NIET has been tested on IDA Pro 7.5 using python 3.8 on the following platforms: Windows, Linux. This plugin currently supports the following .NET native framework versions: 1.3, 1.6, 1.7, 2.2.
+
 * [DOXBox Debugger](https://github.com/wjp/idados): Eric Fry's IDA/DOSBox debugger plugin
 
 * [DrGadget](https://github.com/patois/DrGadget): This is an IDAPython plugin for the Interactive Disassembler for all your ROP experimentation needs.
@@ -103,6 +105,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 * [Dynamic Data Resolver](https://github.com/Cisco-Talos/DynDataResolver):  A plugin for IDA that aims to make the reverse-engineering of malware easier. Features: Code Flow Trace, Searchable API call logging, Searchable string logging, Resolving dynamic values and auto-commenting.
 
 * [Dynamic IDA Enrichment](https://github.com/ynvb/DIE): DIE is an IDA python plugin designed to enrich IDA`s static analysis with dynamic data. This is done using the IDA Debugger API, by placing breakpoints in key locations and saving the current system context once those breakpoints are hit.
+
+* [easyRE](https://github.com/AntoineBlaud/EasyRe): IDA Python3 script that's make you runtime analyse easier. It allows to trace the code that you selected, then browse the trace, see registers, values and memory associated to the instructions saved by the trace. It allow in a easy way to compare data given to specific part of the code between different calls. It works for X86-X64 arch
 
 * [EFI Scripts](https://github.com/danse-macabre/ida-efitools): Some IDA scripts and tools to assist with reverse engineering EFI executables.
 
@@ -160,6 +164,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [Graph Slick](https://github.com/lallousx86/GraphSlick): Automated detection of inlined functions. It highlights similar groups of nodes and allows you to group them, simplifying complex functions. The authors provide an accompanying presentation which explains the algorithms behind the plugin and shows sample use cases.
 
+* [HashDB IDA](https://github.com/OALabs/hashdb-ida): [HashDB](https://github.com/OALabs/hashdb) API hash lookup plugin for IDA Pro.
+
 * [HeapViewer](https://github.com/danigargu/heap-viewer): An IDA Pro plugin to examine the heap, focused on exploit development.
 
 * [HexRays CodeXplorer](https://github.com/REhints/HexRaysCodeXplorer): The Hex-Rays Decompiler plugin for better code navigation in RE process. CodeXplorer automates code REconstruction of C++ applications or modern malware like Stuxnet, Flame, Equation, Animal Farm ...
@@ -193,6 +199,8 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 * [IDA2SQL](https://github.com/zynamics/ida2sql-plugin-ida): As the name implies this plugin can be used to export information from IDA databases to SQL databases. This allows for further analysis of the collected data: statstical analysis, building graphs, finding similarities between programs, etc.
 
 * [IDA ARM](https://github.com/gdelugre/ida-arm-system-highlight): This script will give you the list of ARM system instructions used in your IDA database. This is useful for locating specific low-level pieces of code (setting up the MMU, caches, fault handlers, etc.).
+
+* [idaxex](https://github.com/emoose/idaxex): Xbox360/Xenon loader plugin for IDA 7.2+, supporting most known Xbox360/Xenon .XEX executable file formats.
 
 * [idawasm](https://github.com/fireeye/idawasm): These IDA Pro plugins add support for loading and disassembling WebAssembly modules.
   * control flow reconstruction and graph mode
@@ -354,6 +362,8 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [NSIS Reversing Suite](https://github.com/isra17/nrs/): NRS is a set of Python librairies used to unpack and analysis NSIS installer's data. It also feature an IDA plugin used to disassembly the NSIS Script of an installer.
 
+* [obfDetect](https://github.com/mcdulltii/obfDetect): A plugin to automatically detect obfuscated code and state machines in binaries.
+
 * [Optimice](https://code.google.com/p/optimice/): This plugin enables you to remove some common obfuscations and rewrite code to a new segment. Currently supported optimizations are: Dead code removal, JMP merging, JCC opaque predicate removal, Pattern based deobfuscations
 
 * [Oregami](https://github.com/shemesh999/oregami): A plugin analyzing the current function to find the usage frame of registers. Oregami eases the work when tracking the use of a register within a function, by limiting the search to occurrences related to the one currently highlighted instead of the whole function. It also allows localized renaming of the registers, and batch type giving to multiple opcodes using the registers.
@@ -448,6 +458,8 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 * [VirusBattle](https://github.com/axmat/virusbattle-ida-plugin): The plugin is an integration of Virus Battle API to the well known IDA Disassembler. Virusbattle is a web service that analyses malware and other binaries with a variety of advanced static and dynamic analyses.
 
 * [VMAttack](https://github.com/anatolikalysch/VMAttack): Static and dynamic virtualization-based packed analysis and deobfuscation.
+
+* [WakaTime](https://github.com/es3n1n/ida-wakatime-py): Time tracking plugin showing the time you spend using IDA.
 
 * [Win32 LST to Inline Assembly](https://github.com/binrapt/ida): Python script which extracts procedures from IDA Win32 LST files and converts them to correctly dynamically linked compilable Visual C++ inline assembly.
 
