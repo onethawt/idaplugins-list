@@ -214,7 +214,7 @@ I'll be organizing the plugins over time. Please submit PRs if you have any othe
 
 * [IDA C#](https://github.com/Fabi/IDACSharp): Scripting IDA with C#
 
-* [IDA Compare](https://github.com/dzzie/IDACompare): IDA disassembly level diffing tool, find patches and modifications between malware variants. See mydoom A/B sample database and video trainer for usage.
+* [IDA Compare](http://sandsprite.com/iDef/IDACompare/): IDA disassembly level diffing tool, find patches and modifications between malware variants. See mydoom A/B sample database and video trainer for usage.
 
 * [IDACyber](https://github.com/patois/IDACyber): IDACyber is a plugin for the Interactive Disassembler that visualizes an IDA database's content.
 
