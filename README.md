@@ -452,6 +452,8 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [VMAttack](https://github.com/anatolikalysch/VMAttack): Static and dynamic virtualization-based packed analysis and deobfuscation.
 
+* [WakaTime](https://github.com/es3n1n/ida-wakatime-py): Time tracking plugin showing the time you spend using IDA.
+
 * [Win32 LST to Inline Assembly](https://github.com/binrapt/ida): Python script which extracts procedures from IDA Win32 LST files and converts them to correctly dynamically linked compilable Visual C++ inline assembly.
 
 * [WinIOCtlDecoder](https://github.com/tandasat/WinIoCtlDecoder): An IDA Pro plugin which decodes a Windows Device I/O control code into DeviceType, FunctionCode, AccessType and MethodType.
